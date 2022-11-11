@@ -9,3 +9,7 @@ SDFs are generated from a low poly version of the Adam character as it's animati
 
 \
 ![mesh-to-sdf](Video/mesh-to-sdf.gif)
+
+# acknowledgements
+
+Sparky is based on the portal effect from [VFX Graph samples](https://github.com/Unity-Technologies/VisualEffectGraph-Samples) by [@JulienFryer](https://twitter.com/JulienFryer) and [@peeweekVFX](https://twitter.com/peeweekVFX).
