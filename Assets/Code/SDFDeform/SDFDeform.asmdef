@@ -1,0 +1,16 @@
+{
+    "name": "SDFDeform",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b10624d713de0ea499050eed0b22b274"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
